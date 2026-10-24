@@ -1,0 +1,11 @@
+iata_code,id,ident,icao_code,name,type,latitude_deg,longitude_deg,elevation_ft,iso_country,iso_region,municipality,scheduled_service
+ATL,3384,KATL,KATL,Hartsfield Jackson Atlanta International Airport,large_airport,33.6367,-84.428101,1026.0,US,US-GA,Atlanta,yes
+BOS,3422,KBOS,KBOS,Boston Logan International Airport,large_airport,42.36197,-71.0079,20.0,US,US-MA,Boston,yes
+DEN,3486,KDEN,KDEN,Denver International Airport,large_airport,39.860027,-104.673792,5431.0,US,US-CO,Denver,yes
+DFW,3488,KDFW,KDFW,Dallas Fort Worth International Airport,large_airport,32.896801,-97.038002,607.0,US,US-TX,Dallas-Fort Worth,yes
+JFK,3622,KJFK,KJFK,John F. Kennedy International Airport,large_airport,40.639447,-73.779317,13.0,US,US-NY,New York,yes
+LAX,3632,KLAX,KLAX,Los Angeles International Airport,large_airport,33.942501,-118.407997,125.0,US,US-CA,Los Angeles,yes
+MIA,3685,KMIA,KMIA,Miami International Airport,large_airport,25.796011,-80.289751,8.0,US,US-FL,Miami,yes
+ORD,3754,KORD,KORD,Chicago O'Hare International Airport,large_airport,41.9786,-87.9048,680.0,US,US-IL,Chicago,yes
+SEA,3875,KSEA,KSEA,Seattle–Tacoma International Airport,large_airport,47.447943,-122.310276,433.0,US,US-WA,Seattle,yes
+SFO,3878,KSFO,KSFO,San Francisco International Airport,large_airport,37.619806,-122.374821,13.0,US,US-CA,San Francisco,yes
